@@ -1,0 +1,14 @@
+[Scheme]
+Name=iTerm2 Light
+ColorForeground=#000000000000
+ColorBackground=#ffffffffffff
+ColorPalette=rgb(0,0,0);rgb(201,27,0);rgb(0,194,0);rgb(199,196,0);rgb(2,37,199);rgb(201,48,199);rgb(0,197,199);rgb(199,199,199);rgb(103,103,103);rgb(255,109,103);rgb(95,249,103);rgb(254,251,103);rgb(104,113,255);rgb(255,118,255);rgb(95,253,255);rgb(255,254,254)
+ColorCursor=#0f4999
+ColorSelection=#000000000000
+ColorSelectionUseDefault=FALSE
+ColorBold=#000000
+ColorBoldUseDefault=FALSE
+TabActivityColor=#0f0f49499999
+ColorSelectionBackground=#c1c1dddcffff
+ColorBoldIsBright=FALSE
+
